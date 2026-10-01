@@ -1,0 +1,6 @@
+{
+  "name": "BriefMail - Professional Email Generator",
+  "description": "Transform rough notes and short descriptions into polished, high-impact professional emails with tailored tones, multiple variations, and instant refinements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
